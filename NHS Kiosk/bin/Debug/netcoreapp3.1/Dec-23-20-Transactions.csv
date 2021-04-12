@@ -1,0 +1,4 @@
+Transaction Num, Transaction Date, Transaction Time, Cash Amount, Card Vendor, Card Amount, Change Given
+1,Dec-23-2020,10:28,$20,No_Vendor_Given,$0,$7.51
+2,Dec-23-2020,10:29,$50,No_Vendor_Given,$0,$35
+3,Dec-23-2020,10:29,$0,Visa,$5,$0
